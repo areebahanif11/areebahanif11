@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Areeba Hanif</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3align="center">I am Undergraduate student in Data Science, A Passionate Data Analyst</h3>
 
 - 🔭 I’m currently working on **Microsoft Excel, Microsoft Power BI**
 
